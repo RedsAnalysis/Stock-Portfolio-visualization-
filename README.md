@@ -1,2 +1,3 @@
-# AnalysisParalysis
-Think less Do more
+# Stock Portfolio Visualization
+
+we utilized Python and Matplotlib to craft a visually compelling representation of a stock portfolio. The dynamic pie chart visually encapsulates the distribution of various stocks within the portfolio, offering an intuitive at-a-glance overview of their relative values. The project not only focused on data retrieval and plotting but also emphasized the importance of thoughtful styling, layout adjustments, and text integration to enhance the overall aesthetics of the financial visualization. The resulting output is a sophisticated and informative depiction of the stock portfolio, blending functionality with visual appeal.
